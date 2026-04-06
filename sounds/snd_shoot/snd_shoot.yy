@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_shoot",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.21149659,
+  "exportDir":"",
+  "name":"snd_shoot",
+  "parent":{
+    "name":"space_rocks_sounds_bc75355d53",
+    "path":"folders/Sounds/space_rocks_sounds_bc75355d53.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_shoot.wav",
+  "volume":1.0,
+}
